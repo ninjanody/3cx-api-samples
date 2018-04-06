@@ -10,7 +10,7 @@
   "author": "Nikolai Orekhov",
   "license": "ISC",
   "dependencies": {
-    "@3cx/api": "git+https://github.com/sherlock1982/3cx-api.git",
+    "@3cx/api": "^0.0.2",
     "ts-node": "^5.0.1",
     "typescript": "^2.8.1"
   },
