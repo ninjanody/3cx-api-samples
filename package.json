@@ -13,5 +13,17 @@
     "@3cx/api": "git+https://github.com/sherlock1982/3cx-api.git",
     "ts-node": "^5.0.1",
     "typescript": "^2.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sherlock1982/3cx-api-samples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sherlock1982/3cx-api-samples/issues"
+  },
+  "homepage": "https://github.com/sherlock1982/3cx-api-samples",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.5.1"
   }
 }
