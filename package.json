@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "pbx:status": "ts-node src/system-status",
+    "pbx:call-logs": "ts-node src/call-logs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nikolai Orekhov",
   "license": "ISC",
   "dependencies": {
-    "@3cx/api": "^0.0.2",
+    "@3cx/api": "^0.0.10",
     "ts-node": "^5.0.1",
     "typescript": "^2.8.1"
   },
